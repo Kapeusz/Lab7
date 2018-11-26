@@ -43,7 +43,7 @@ https://en.wikipedia.org/w/api.php?action=query&format=json&generator=search&pro
     let theData = "";
     let langLinks = "";
     let img = "<img>";
-    const languages = ["en", "de", "zh", "fr", "es", "ja", "ar", "ko", "el"];
+    const languages = ["en", "de", "zh", "fr", "es", "ja", "ar", "ko", "el", "pl"];
     let k;
     let key;
     // loop through the result pages by pageid
